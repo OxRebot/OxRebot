@@ -11,7 +11,8 @@
 
 
 	
-## <picture><img src = "https://github.com/OxRebot/OxRebot/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## <img src="https://github.com/OxRebot/OxRebot/raw/main/assets/mdImages/about_me.gif" width="50px" style="vertical-align:middle;"> **About me**
+
 
 <picture> <img align="right" src="https://github.com/OxRebot/OxRebot/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
