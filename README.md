@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nasser</h1>
 <h3 align="center">A CyberSecurity trainee that's want to learn new things From Saudi Arabia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=oxrebot&label=Profile%20views&color=0e75b6&style=flat" alt="oxrebot" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oxrebot" alt="oxrebot" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/0xrebot" target="blank"><img src="https://img.shields.io/twitter/follow/0xrebot?logo=twitter&style=for-the-badge" alt="0xrebot" /></a> </p>
 
 - 🌱 I’m currently learning **CPTS&CBBH course**
@@ -24,5 +20,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oxrebot&show_icons=true&locale=en&layout=compact" alt="oxrebot" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oxrebot&show_icons=true&locale=en" alt="oxrebot" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oxrebot&" alt="oxrebot" /></p>
