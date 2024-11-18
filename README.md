@@ -18,7 +18,7 @@
 
 - A passionate Self-taught Back-end developer
 - Playing CTF's at spare time
-- Currently learning Web Development by Self
+- Currently learning CPTS + CBBH Course
 - I’m currently open for an Intern or a new job opportunity
 
 <br><br>
